@@ -1,0 +1,14 @@
+iframe {
+    width: 100%;
+    height: 50vh;
+}
+
+h1 {
+  justify-content: center;
+  display: flex;
+}
+
+h3 {
+  justify-content: center;
+  display: flex;
+}
